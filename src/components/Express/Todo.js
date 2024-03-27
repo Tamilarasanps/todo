@@ -1,0 +1,1 @@
+"mongodb+srv://Tamil:<password>@cluster0.sm1ns.mongodb.net/"
